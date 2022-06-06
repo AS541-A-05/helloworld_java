@@ -1,2 +1,5 @@
 # helloworld_java
-easy easy
+easy easy  
+
+## implの実装などをする
+
